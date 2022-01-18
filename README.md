@@ -3,9 +3,9 @@
 A 3D project in OpenGL/C++
 
 To build the project, open cmd in the directory and run:
-mkdir build
-cd build
-cmake -A Win32 ..
+mkdir build,
+cd build,
+cmake -A Win32 .. (including the dots)
 
 
 Model "Mermaid" by Geoffrey Marchal
